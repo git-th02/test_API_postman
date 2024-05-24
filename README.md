@@ -23,5 +23,6 @@ Kiểm thử bảo mật API. \\
 Viết các kịch bản kiểm thử tự động bằng Postman. \\
 ## 4. Thực hành:
 
-Sử dụng Postman để kiểm thử một API thực tế. \\
-Viết báo cáo kiểm thử chi tiết. \\
+API test: https://pokeapi.co/api/v2/pokemon/ditto
+<img width="1078" alt="Ảnh màn hình 2024-05-24 lúc 15 39 59" src="https://github.com/git-th02/test_API_postman/assets/96609853/c0978385-ccea-44dd-ad1c-498a1e7f0d5e">
+
